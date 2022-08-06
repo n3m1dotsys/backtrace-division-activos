@@ -52,4 +52,7 @@ la consola de comandos añadiendo el vector despues de la llamada al programa.
 python3 division_activos.py 10 9 5 3 3 2 2 2 2 2
 ```
 
-`
+## Sugerencias y bugs
+
+Si encuentras algun bug o tienes alguna sugerencia incluyela en el apartado *issues*
+de la página. Intentaré ponerme con ello lo antes posible.

@@ -32,7 +32,8 @@ def dividir(x, suma1, suma2, sumat, k, v):
     x = list(x)
     v = list(v)
     # Mensaje por pantalla de la llamada a la función recursiva que se ha
-    # realizado
+    # realizado. El resto de prints en esta función también son de
+    # caracter informativo.
     print(f"dividir({str(x)},{str(suma1)},{str(suma2)},{str(sumat)}," +
           f"{str(k)},{str(v)})")
     # Comprobación de si ha terminado el algoritmo
